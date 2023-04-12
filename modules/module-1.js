@@ -10,7 +10,7 @@
 // 4) Multiline - /regex/m - Can our regex match text that stretches across more than one line or does it have to be on the same line
 // 5) Grep - g/re/p - Globally search for regular expressions and print out the results
 
-// Match the letters: 
+// Match the letters:
 
 //  * e.g - /car/ - Matches the first three letters of "carnival". It searches through the string.
 
